@@ -1,7 +1,7 @@
 import React from 'react'
 import PostAuthor from "./PostAuthor";
 import TimeAgo from "./TimeAgo";
-import ReactionButton from "./ReactionButton";
+import ReactionButton from "./ReactionButtons";
 const PostsExcerpt = ({post}) => {
   return (
     <article>
