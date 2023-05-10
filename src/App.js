@@ -24,7 +24,7 @@ function App() {
         <Route path="*" element={<Navigate to="/" replace/>}/>
       </Route>
     </Routes>
-    
+    // The App is getting optimized
   );
 }
 
